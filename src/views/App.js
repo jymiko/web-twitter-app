@@ -1,4 +1,3 @@
-import logo from '../logo.svg';
 import '../assets/css/App.css';
 import Header from '../components/Header';
 import InputChart from '../components/InputChart';
